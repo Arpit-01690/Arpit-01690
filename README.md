@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @Arpit-01690
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 https://www.linkedin.com/in/arpit-sarang-ab0b63320?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BISWnOAfHSKGB1vkMuykupg%3D%3D
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Get Happy only while coding
+# 👋 Hello, I'm Arpit (@Arpit-01690)
+
+Welcome to my alternate GitHub space!  
+I use this account to explore, experiment, and grow as a developer.
+
+## 👀 About Me
+
+- 🎯 Passionate about **coding** and turning ideas into reality.
+- 🌱 Currently learning **Web Development** (HTML, CSS, JavaScript, React, and more).
+- 💡 Always curious to dive into new technologies and build cool projects.
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun Fact: I get *truly happy* only while coding!
+
+## 🔧 Tech Stack (In Progress)
+
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express (learning stage)
+- **Tools**: Git, GitHub, VS Code, Postman
+
+## 📈 GitHub Stats
+
+> _Stay tuned for upcoming projects and experiments._
+
+---
+
+Let's connect and learn together!
+
+
 
 <!---
 Arpit-01690/Arpit-01690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
